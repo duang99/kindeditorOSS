@@ -6,4 +6,4 @@ kindeditor编辑器上传文件至aliyunOSS（JAVA版）
 
 2、ossProperties.properties中配置，自行修改视情况而定。
 
-3、视频，图片，flash均可上传值OSS，可根据情况分类
+3、视频，图片，flash均可上传至OSS，可根据情况分类
